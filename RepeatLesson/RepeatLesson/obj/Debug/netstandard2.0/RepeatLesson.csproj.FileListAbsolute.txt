@@ -1,0 +1,14 @@
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\RepeatLesson.deps.json
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\RepeatLesson.dll
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\ref\RepeatLesson.dll
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\RepeatLesson.pdb
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MyMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\RepeatLesson.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\RepeatLesson.AssemblyInfo.cs
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\RepeatLesson.dll
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\ref\RepeatLesson.dll
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\RepeatLesson.pdb
+C:\Users\musta\Desktop\Xamarin UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\LayoutsPage.xaml.g.cs
