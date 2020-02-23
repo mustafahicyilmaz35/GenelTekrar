@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
       "projectName": "RepeatLesson",
-      "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
+      "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\obj\\",
+      "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

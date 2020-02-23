@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj": {}
+    "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj": {
+    "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj",
         "projectName": "RepeatLesson.Android",
-        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj",
+        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\RepeatLesson.Android.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\obj\\",
+        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
-                "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj"
+              "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
+                "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
+    "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
         "projectName": "RepeatLesson",
-        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
+        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\obj\\",
+        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

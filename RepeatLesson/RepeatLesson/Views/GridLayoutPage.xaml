@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RepeatLesson.Views.GridLayoutPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Ana Sayfa Tasarımında Grid Layout Kullanılmıştır. Ana Sayfaya Dönmek İçin aşağıdaki Butonu Tıklayın."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Ana Sayfaya Dön" Clicked="Button_OnClicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

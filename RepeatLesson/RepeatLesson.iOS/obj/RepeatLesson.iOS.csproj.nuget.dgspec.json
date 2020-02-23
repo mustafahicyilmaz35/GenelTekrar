@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj": {}
+    "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj": {
+    "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj",
         "projectName": "RepeatLesson.iOS",
-        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj",
+        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\RepeatLesson.iOS.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\obj\\",
+        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
-                "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj"
+              "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
+                "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
+    "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
         "projectName": "RepeatLesson",
-        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
+        "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\RepeatLesson.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\obj\\",
+        "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_UI\\RepeatLesson\\RepeatLesson\\RepeatLesson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

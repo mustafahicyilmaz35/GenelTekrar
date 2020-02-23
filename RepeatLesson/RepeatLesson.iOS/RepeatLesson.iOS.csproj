@@ -132,4 +132,7 @@
       <Name>RepeatLesson</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\matrix.jpg" />
+  </ItemGroup>
 </Project>
