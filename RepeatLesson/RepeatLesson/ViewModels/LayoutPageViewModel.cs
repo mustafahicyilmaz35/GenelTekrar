@@ -34,6 +34,8 @@ namespace RepeatLesson.ViewModels
             get => new Command(GoToStackLayoutPageAsync);
         }
 
+
+
         private async void GoToStackLayoutPageAsync()
         {
             await Application.Current.MainPage.Navigation.PushAsync(new StackLayoutPage());

@@ -5,11 +5,18 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="RepeatLesson.Views.FlexLayoutPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Flex Layout Page"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+    <FlexLayout Direction="Column" Wrap="Wrap" JustifyContent="SpaceEvenly" AlignItems="Start">
+
+        <Frame FlexLayout.Grow="1" FlexLayout.Order="1"/>
+
+        <Label BackgroundColor="Blue" Text="Ben bir footerım" TextColor="White" FlexLayout.AlignSelf="Stretch" FlexLayout.Order="2" />
+
+        <Label BackgroundColor="Green" Text="Merhaba Xamarin" FlexLayout.Basis="350"/>
+        <Label Text="Merhaba Dünya" FlexLayout.Basis="350"/>
+        <Button Text="Tıkla Beni" FlexLayout.AlignSelf="Center"/>
+
+       
+
+        
+    </FlexLayout>
 </ContentPage>

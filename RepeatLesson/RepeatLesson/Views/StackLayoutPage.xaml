@@ -4,12 +4,20 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="RepeatLesson.Views.StackLayoutPage">
+             x:Class="RepeatLesson.Views.StackLayoutPage"
+             Title="StackLayout">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="StackLayout Page"
+            <Label Text="Dikey Yapılandırılmış StackLayout"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Button Text="Tıkla Beni"/>
+
+            <StackLayout Margin="20" Padding="20">
+                <Label Text="Yatay Yapılandılmış Stacklayout"></Label>
+                <Button Text="Tıkla Bana"></Button>
+            </StackLayout>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
