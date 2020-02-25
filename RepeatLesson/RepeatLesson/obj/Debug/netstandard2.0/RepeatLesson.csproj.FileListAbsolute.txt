@@ -16,7 +16,6 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Deb
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\RepeatLesson.dll
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\ref\RepeatLesson.dll
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\bin\Debug\netstandard2.0\RepeatLesson.pdb
-C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\RepeatLesson.csprojAssemblyReference.cache
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\AbsoluteLayoutPage.xaml.g.cs
@@ -32,5 +31,15 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Deb
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\GridLayoutPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\RelativeLayoutPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\StackLayoutPage.xaml.g.cs
-C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\PageStructPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\LabelPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\UserControlsPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\PageStructedPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SampleContentPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\RepeatLesson.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MasterDetailViews\FirstPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MasterDetailViews\MasterDetailPageMenu.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MasterDetailViews\SecondPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MasterDetailViews\ThirdPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\TabbedPageViews\TabbedPageMenu.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CarouselPageViews\CarouselPageMenu.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\AbaoutNavigationPage.xaml.g.cs

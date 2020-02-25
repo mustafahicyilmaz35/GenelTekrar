@@ -5,11 +5,11 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:viewModel="clr-namespace:RepeatLesson.ViewModels"
              mc:Ignorable="d"
-             x:Class="RepeatLesson.Views.PageStructPage"
+             x:Class="RepeatLesson.Views.UserControlsPage"
              Title="Controls">
 
     <ContentPage.BindingContext>
-        <viewModel:PageStructPageViewModel/>
+        <viewModel:UserControlsPageViewModel/>
     </ContentPage.BindingContext>
     
     <ContentPage.Content>

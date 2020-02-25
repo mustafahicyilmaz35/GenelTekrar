@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace RepeatLesson.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PageStructPage : ContentPage
+    public partial class UserControlsPage : ContentPage
     {
-        public PageStructPage()
+        public UserControlsPage()
         {
             InitializeComponent();
         }

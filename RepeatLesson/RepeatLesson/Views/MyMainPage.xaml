@@ -32,9 +32,9 @@
             <Label Grid.Row="1" Grid.Column="0" Text="Bu sayfadaki buttonlar ve labeller grid layout içerine yerleştirilmiştir."/>
             <Button Text="Layoutlar" Grid.Row="2" Grid.Column="0" Command="{Binding LayoutCommand}"/>
             <Button Text="Page Yapıları
-                    " Grid.Row="3" Grid.Column="0" Command="{Binding PageStructCommand}"/>
+                    " Grid.Row="3" Grid.Column="0" Command="{Binding PageStructedCommand}" />
             <Button Text="User Control UI ları
-                    " Grid.Row="4" Grid.Column="0"/>
+                    " Grid.Row="4" Grid.Column="0" Command="{Binding UserControlsCommand}"/>
 
         </Grid>
     </ContentPage.Content>

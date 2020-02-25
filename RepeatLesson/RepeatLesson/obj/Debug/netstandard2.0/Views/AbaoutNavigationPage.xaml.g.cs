@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("RepeatLesson.Views.PageStructPage.xaml", "Views/PageStructPage.xaml", typeof(global::RepeatLesson.Views.PageStructPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("RepeatLesson.Views.AbaoutNavigationPage.xaml", "Views/AbaoutNavigationPage.xaml", typeof(global::RepeatLesson.Views.AbaoutNavigationPage))]
 
 namespace RepeatLesson.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PageStructPage.xaml")]
-    public partial class PageStructPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\AbaoutNavigationPage.xaml")]
+    public partial class AbaoutNavigationPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PageStructPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(AbaoutNavigationPage));
         }
     }
 }

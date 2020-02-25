@@ -943,3 +943,7 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\res\drawable\matrix.jpg
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\res\drawable\first.png
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\res\second.png
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\res\drawable\second.png
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\res\drawable\third.png

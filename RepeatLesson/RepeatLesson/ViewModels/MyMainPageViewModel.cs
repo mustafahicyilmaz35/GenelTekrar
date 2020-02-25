@@ -14,16 +14,28 @@ namespace RepeatLesson.ViewModels
             get => new Command(GoToLayoutsPageAsync);
         }
 
-        public ICommand PageStructCommand
+        public ICommand UserControlsCommand
         {
 
-            get => new Command(GoToPageStructPageAsync);
+            get => new Command(GoToUserControlsPageAsync);
         }
 
-        private async void GoToPageStructPageAsync(object obj)
+        public ICommand PageStructedCommand
         {
-            await Application.Current.MainPage.Navigation.PushAsync(new PageStructPage());
+
+            get => new Command(GoToUserPageStructedPageAsync);
         }
+
+        private async void GoToUserPageStructedPageAsync()
+        {
+            await Application.Current.MainPage.Navigation.PushAsync(new PageStructedPage());
+        }
+
+        private async void GoToUserControlsPageAsync()
+        {
+            await Application.Current.MainPage.Navigation.PushAsync(new UserControlsPage());
+        }
+
 
         private async void GoToLayoutsPageAsync()
         {

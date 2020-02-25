@@ -9,7 +9,7 @@ using RepeatLesson.Models;
 
 namespace RepeatLesson.ViewModels
 {
-    public class PageStructPageViewModel : INotifyPropertyChanged
+    public class UserControlsPageViewModel : INotifyPropertyChanged
     {
 
         private ObservableCollection<Controls> _controls;
@@ -26,11 +26,11 @@ namespace RepeatLesson.ViewModels
         }
 
 
-        public PageStructPageViewModel()
+        public UserControlsPageViewModel()
         {
             Controls = new ObservableCollection<Controls>
             {
-                //28 tane kullanıcı kontrolü vardır.
+                //31 tane kullanıcı kontrolü vardır.
 
                 new Controls{Name = "Label"},
                 new Controls{Name = "Image"},
@@ -60,6 +60,12 @@ namespace RepeatLesson.ViewModels
                 new Controls{Name = "ListView"},
                 new Controls{Name = "Picker"},
                 new Controls{Name = "TableView"},
+
+                //Bu üç yapı layout yapısına benzeyen kontrollerdir.
+                new Controls{Name = "ContentView"},
+                new Controls{Name = "Frame"},
+                new Controls{Name = "ScrollView"},
+
 
 
 
