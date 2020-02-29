@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
 using RepeatLesson.Views.MapViews;
+using RepeatLesson.Views.SearchBarViews;
 using RepeatLesson.Views.UserUIViews;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -47,6 +48,12 @@ namespace RepeatLesson.Views
                     break;
                 case "ImageButton":
                     Navigation.PushAsync(new ImageButtonPage());
+                    break;
+                case "RefreshView":
+                    Navigation.PushAsync(new RefreshViewPage());
+                    break;
+                case "SearchBar":
+                    Navigation.PushAsync(new SearchBarMainPage());
                     break;
             }
 
