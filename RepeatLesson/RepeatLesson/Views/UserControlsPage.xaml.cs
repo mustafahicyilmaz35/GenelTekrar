@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
+using RepeatLesson.Views.MapViews;
 using RepeatLesson.Views.UserUIViews;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -40,6 +41,12 @@ namespace RepeatLesson.Views
                     break;
                 case "MediaElement":
                     Navigation.PushAsync(new MediaElementPage());
+                    break;
+                case "Map":
+                    Navigation.PushAsync(new MapMainPage());
+                    break;
+                case "ImageButton":
+                    Navigation.PushAsync(new ImageButtonPage());
                     break;
             }
 

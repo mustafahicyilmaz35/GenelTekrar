@@ -56,3 +56,5 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.iOS\obj
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.iOS\obj\iPhoneSimulator\Debug\RepeatLesson.iOS.csproj.CopyComplete
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.iOS\obj\iPhoneSimulator\Debug\RepeatLesson.iOS.exe
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.iOS\obj\iPhoneSimulator\Debug\RepeatLesson.iOS.pdb
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll

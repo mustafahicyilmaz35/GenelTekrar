@@ -44,7 +44,7 @@ namespace RepeatLesson.ViewModels
 
         public MyMainPageViewModel()
         {
-            
+
         }
     }
 }
