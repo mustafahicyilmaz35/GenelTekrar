@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
+using RepeatLesson.Views.UserUIViews;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -24,6 +25,15 @@ namespace RepeatLesson.Views
             {
                 case "Label":
                     Navigation.PushAsync(new LabelPage());
+                    break;
+                case "Image":
+                    Navigation.PushAsync(new ImagePage());
+                    break;
+                case "BoxView":
+                    Navigation.PushAsync(new BoxViewPage());
+                    break;
+                case "OpenGLView":
+                    Navigation.PushAsync(new OpenGLPage());
                     break;
             }
 
