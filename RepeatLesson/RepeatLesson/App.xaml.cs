@@ -9,9 +9,12 @@ namespace RepeatLesson
     {
         public App()
         {
+            Device.SetFlags(new string[] { "MediaElement_Experimental" });
             InitializeComponent();
 
             MainPage = new NavigationPage(new MyMainPage());
+            
+            
         }
 
         protected override void OnStart()

@@ -35,6 +35,12 @@ namespace RepeatLesson.Views
                 case "OpenGLView":
                     Navigation.PushAsync(new OpenGLPage());
                     break;
+                case "WebView":
+                    Navigation.PushAsync(new WebViewPage());
+                    break;
+                case "MediaElement":
+                    Navigation.PushAsync(new MediaElementPage());
+                    break;
             }
 
         }

@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="VideoPicker.cs" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -137,5 +138,8 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\matrix.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\BigBuckBunny_512kb.mp4" />
   </ItemGroup>
 </Project>

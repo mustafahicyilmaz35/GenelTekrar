@@ -487,3 +487,4 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\res\raw\bigbuckbunny_512kb.mp4
