@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RepeatLesson.Views.CheckBoxViews.BasicCheckBoxCodePage">
+    <ContentPage.Content>
+        <Grid Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <ScrollView Grid.Row="0" Grid.Column="2">
+                <Label x:Name="label" FontSize="Body" Text="Lorem ipsum dolor sit amet, elit rutrum, enim hendrerit augue vitae praesent sed non, lorem aenean quis praesent pede, lacus sodales sed condimentum senectus nunc donec, neque pellentesque curabitur velit eleifend et pulvinar. Dapibus in libero volutpat libero. Condimentum hac nec eget, in aliquet sodales orci duis mauris diam, felis iaculis auctor amet curabitur justo faucibus, voluptate mollis, ipsum arcu in fusce. Felis per commodo tempus, in velit lacinia duis lacinia porttitor volutpat. Praesent eros incidunt. Eros purus arcu in suscipit urna. Condimentum eu, mauris sagittis mauris, augue nulla morbi, vehicula mattis cras vulputate sed. Metus amet, bibendum eget nulla consectetuer. Ipsum eget fusce, sapien aenean a. Sit id pellentesque tincidunt pulvinar ac, justo lacus enim. Consectetuer libero, mi aenean dui rhoncus, rutrum dolor lectus amet, praesent porttitor a varius tempor lorem et. Velit at auctor dolore, purus tellus mauris, magna eu ac erat orci ridiculus, leo luctus ultricies sapien in purus ipsum"></Label>
+            </ScrollView>
+
+            <Label x:Name="italicLabel" Text="İtalic: " VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+            <Label x:Name="boldLabel" Text="Bold: " VerticalOptions="Center" Grid.Row="2" Grid.Column="0"/>
+            <Label x:Name="underLineLabel" Text="Under Line: " VerticalOptions="Center" Grid.Row="0" Grid.Column="1"/>
+            <Label x:Name="strikethroughLabel" Text="Under Line: " VerticalOptions="Center" Grid.Row="2" Grid.Column="1"/>
+            <CheckBox x:Name="italicCheckBox" VerticalOptions="Center" CheckedChanged="İtalicCheckBox_OnCheckedChanged" Grid.Row="1" Grid.Column="0"></CheckBox>
+            <CheckBox x:Name="boldCheckBox" VerticalOptions="Center" CheckedChanged="BoldCheckBox_OnCheckedChanged" Grid.Row="3" Grid.Column="0"></CheckBox>
+            <CheckBox x:Name="underLineCheckBox" VerticalOptions="Center" CheckedChanged="UnderLineCheckBox_OnCheckedChanged" Grid.Row="1" Grid.Column="1"></CheckBox>
+            <CheckBox x:Name="strikethroughCheckbox" VerticalOptions="Center" CheckedChanged="StrikethroughCheckbox_OnCheckedChanged" Grid.Row="3" Grid.Column="1"></CheckBox>
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

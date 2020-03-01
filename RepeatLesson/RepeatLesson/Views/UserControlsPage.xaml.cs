@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
+using RepeatLesson.Views.CheckBoxViews;
 using RepeatLesson.Views.MapViews;
 using RepeatLesson.Views.SearchBarViews;
 using RepeatLesson.Views.UserUIViews;
@@ -54,6 +55,9 @@ namespace RepeatLesson.Views
                     break;
                 case "SearchBar":
                     Navigation.PushAsync(new SearchBarMainPage());
+                    break;
+                case "CheckBox":
+                    Navigation.PushAsync(new CheckBoxMainPage());
                     break;
             }
 
