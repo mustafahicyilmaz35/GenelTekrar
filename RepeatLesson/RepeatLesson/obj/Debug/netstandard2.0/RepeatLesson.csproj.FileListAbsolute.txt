@@ -9,7 +9,6 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Deb
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CarouselPageViews\CarouselPageMenu.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\FlexLayoutPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\GridLayoutPage.xaml.g.cs
-C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\LabelPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\LayoutsPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MasterDetailViews\FirstPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\MasterDetailViews\MasterDetailPageMenu.xaml.g.cs
@@ -64,3 +63,13 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Deb
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SwitchViews\SwitchBindingsPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SwitchViews\SwitchMainPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SwitchViews\SwitchXamlPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\DatePickerViews\DatePickerMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\TimePickerViews\TimePickerMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\BuiltInStylesXaml.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\CustomStylesXaml.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\EditorPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\EntryPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\LabelPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\ListPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\LoginPageXaml.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\EntryViews\OrderPageXaml.xaml.g.cs

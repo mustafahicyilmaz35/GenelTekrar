@@ -32,7 +32,7 @@ namespace RepeatLesson.ViewModels
             {
                 //31 tane kullanıcı kontrolü vardır.
 
-                new Controls{Name = "Label"},
+               
                 new Controls{Name = "Image"},
                 new Controls{Name = "BoxView"},
                 new Controls{Name = "WebView"},
@@ -48,10 +48,10 @@ namespace RepeatLesson.ViewModels
                 new Controls{Name = "Slider"},
                 new Controls{Name = "Stepper"},
                 new Controls{Name = "Switch"},
-                new Controls{Name = "DataPicker"},
+                new Controls{Name = "DatePicker"},
                 new Controls{Name = "TimePicker"},
-                new Controls{Name = "Entry"},
-                new Controls{Name = "Editor"},
+                new Controls{Name = "Text Demoları"},
+               
                 new Controls{Name = "ActivityIndicator"},
                 new Controls{Name = "ProgressBar"},
                 new Controls{Name = "CarouselView"},

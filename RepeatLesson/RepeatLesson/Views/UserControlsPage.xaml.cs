@@ -5,11 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
 using RepeatLesson.Views.CheckBoxViews;
+using RepeatLesson.Views.DatePickerViews;
+using RepeatLesson.Views.EntryViews;
 using RepeatLesson.Views.MapViews;
 using RepeatLesson.Views.SearchBarViews;
 using RepeatLesson.Views.SliderViews;
 using RepeatLesson.Views.StepperViews;
 using RepeatLesson.Views.SwitchViews;
+using RepeatLesson.Views.TimePickerViews;
 using RepeatLesson.Views.UserUIViews;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -29,9 +32,7 @@ namespace RepeatLesson.Views
             
             switch ((e.SelectedItem as Controls)?.Name)
             {
-                case "Label":
-                    Navigation.PushAsync(new LabelPage());
-                    break;
+               
                 case "Image":
                     Navigation.PushAsync(new ImagePage());
                     break;
@@ -70,6 +71,15 @@ namespace RepeatLesson.Views
                     break;
                 case "Switch":
                     Navigation.PushAsync(new SwitchMainPage());
+                    break;
+                case "DatePicker":
+                    Navigation.PushAsync(new DatePickerMainPage());
+                    break;
+                case "TimePicker":
+                    Navigation.PushAsync(new TimePickerMainPage());
+                    break;
+                case "Text Demoları":
+                    Navigation.PushAsync(new ListPage());
                     break;
             }
 
