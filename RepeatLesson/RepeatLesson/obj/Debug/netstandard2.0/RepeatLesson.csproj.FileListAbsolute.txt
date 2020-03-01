@@ -53,3 +53,14 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Deb
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CheckBoxViews\BasicCheckBoxCodePage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CheckBoxViews\BasicCheckBoxVisualStatesPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CheckBoxViews\CheckBoxMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SliderViews\BasicSliderBindingsPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SliderViews\BasicSliderXamlPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SliderViews\HslColorSlidersPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SliderViews\RgbColorSlidersPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SliderViews\SliderMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\StepperViews\BasicStepperBindingsPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\StepperViews\BasicStepperXAMLPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\StepperViews\StepperMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SwitchViews\SwitchBindingsPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SwitchViews\SwitchMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\SwitchViews\SwitchXamlPage.xaml.g.cs

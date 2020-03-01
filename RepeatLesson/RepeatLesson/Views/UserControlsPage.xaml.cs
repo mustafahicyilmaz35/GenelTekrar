@@ -7,6 +7,9 @@ using RepeatLesson.Models;
 using RepeatLesson.Views.CheckBoxViews;
 using RepeatLesson.Views.MapViews;
 using RepeatLesson.Views.SearchBarViews;
+using RepeatLesson.Views.SliderViews;
+using RepeatLesson.Views.StepperViews;
+using RepeatLesson.Views.SwitchViews;
 using RepeatLesson.Views.UserUIViews;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -58,6 +61,15 @@ namespace RepeatLesson.Views
                     break;
                 case "CheckBox":
                     Navigation.PushAsync(new CheckBoxMainPage());
+                    break;
+                case "Slider":
+                    Navigation.PushAsync(new SliderMainPage());
+                    break;
+                case "Stepper":
+                    Navigation.PushAsync(new StepperMainPage());
+                    break;
+                case "Switch":
+                    Navigation.PushAsync(new SwitchMainPage());
                     break;
             }
 
