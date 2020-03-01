@@ -8,8 +8,10 @@ using RepeatLesson.Views.ActivityIndicatorViews;
 using RepeatLesson.Views.CareouselViews;
 using RepeatLesson.Views.CheckBoxViews;
 using RepeatLesson.Views.CollectionViews;
+using RepeatLesson.Views.ContentView;
 using RepeatLesson.Views.DatePickerViews;
 using RepeatLesson.Views.EntryViews;
+using RepeatLesson.Views.Frame;
 using RepeatLesson.Views.IndicatorViews;
 using RepeatLesson.Views.ListViews.Basic;
 using RepeatLesson.Views.ListViews.ContextActions;
@@ -17,10 +19,12 @@ using RepeatLesson.Views.ListViews.ContextActions;
 using RepeatLesson.Views.MapViews;
 using RepeatLesson.Views.PickerViews;
 using RepeatLesson.Views.ProgressBarViews;
+using RepeatLesson.Views.ScrollView;
 using RepeatLesson.Views.SearchBarViews;
 using RepeatLesson.Views.SliderViews;
 using RepeatLesson.Views.StepperViews;
 using RepeatLesson.Views.SwitchViews;
+using RepeatLesson.Views.TableViews;
 using RepeatLesson.Views.TimePickerViews;
 using RepeatLesson.Views.UserUIViews;
 using Xamarin.Forms;
@@ -115,6 +119,18 @@ namespace RepeatLesson.Views
                     break;
                 case "Picker":
                     Navigation.PushAsync(new PickerMainPage());
+                    break;
+                case "TableView":
+                    Navigation.PushAsync(new TableViewMainPage());
+                    break;
+                case "ContentView":
+                    Navigation.PushAsync(new ContentViewMainPage());
+                    break;
+                case "Frame":
+                    Navigation.PushAsync(new FrameMainPage());
+                    break;
+                case "ScrollView":
+                    Navigation.PushAsync(new ScrollViewMainPage());
                     break;
             }
 

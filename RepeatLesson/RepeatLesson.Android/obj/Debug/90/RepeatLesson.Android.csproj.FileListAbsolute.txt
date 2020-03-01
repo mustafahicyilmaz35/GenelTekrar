@@ -547,4 +547,3 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\android\src\crc6434af9c19aa01b597\GoogleApiClientConnectionCallbacksImpl.java
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\android\src\crc6434af9c19aa01b597\GoogleApiClientOnConnectionFailedListenerImpl.java
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\android\src\crc6495d4f5d63cc5c882\AwaitableTaskCompleteListener_1.java
-C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson.Android\obj\Debug\90\stamp\SetupDependenciesForDesigner.stamp
