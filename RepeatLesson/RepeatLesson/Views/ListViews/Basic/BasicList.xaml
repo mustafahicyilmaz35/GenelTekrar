@@ -18,6 +18,10 @@
                <ListView.ItemTemplate>
                    <DataTemplate>
                        <ViewCell>
+                           <ViewCell.ContextActions>
+                               <MenuItem Text="Düzenle" IsDestructive="True" Clicked="Edit_OnClicked" CommandParameter="{Binding Name}"></MenuItem>
+                                <MenuItem Text="Sil" IsDestructive="True" Clicked="Delete_OnClicked" CommandParameter="{Binding Name}"></MenuItem>
+                           </ViewCell.ContextActions>
                            <Label Text="{Binding Name}"></Label>
                        </ViewCell>
                    </DataTemplate>

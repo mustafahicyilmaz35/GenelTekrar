@@ -15,6 +15,7 @@ using RepeatLesson.Views.ListViews.Basic;
 using RepeatLesson.Views.ListViews.ContextActions;
 
 using RepeatLesson.Views.MapViews;
+using RepeatLesson.Views.PickerViews;
 using RepeatLesson.Views.ProgressBarViews;
 using RepeatLesson.Views.SearchBarViews;
 using RepeatLesson.Views.SliderViews;
@@ -111,6 +112,9 @@ namespace RepeatLesson.Views
                     break;
                 case "ListView":
                     Navigation.PushAsync(new BasicList());
+                    break;
+                case "Picker":
+                    Navigation.PushAsync(new PickerMainPage());
                     break;
             }
 

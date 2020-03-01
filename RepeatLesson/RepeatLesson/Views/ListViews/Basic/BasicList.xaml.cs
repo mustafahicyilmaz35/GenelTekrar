@@ -30,5 +30,18 @@ namespace RepeatLesson.Views.ListViews.Basic
             string name = (e.SelectedItem as Person).Name;
             DisplayAlert("Merhaba", name, "OK");
         }
+
+        private void Edit_OnClicked(object sender, EventArgs e)
+        {
+           
+            var menuItemName = ((MenuItem)sender);
+            DisplayAlert("Düzenle", menuItemName.CommandParameter.ToString(), "OK");
+        }
+
+        private void Delete_OnClicked(object sender, EventArgs e)
+        {
+            var menuItemName = ((MenuItem)sender);
+            DisplayAlert("Sil", menuItemName.CommandParameter.ToString(), "OK");
+        }
     }
 }
