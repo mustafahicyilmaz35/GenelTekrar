@@ -20,6 +20,9 @@
     <Compile Update="Views\DatePickerViews\DatePickerMainPage.xaml.cs">
       <DependentUpon>DatePickerMainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\ListViews\ContextActions\ContextActionsPage.xaml.cs">
+      <DependentUpon>ContextActionsPage.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\MapViews\GeocoderPage.xaml.cs">
       <DependentUpon>GeocoderPage.xaml</DependentUpon>
     </Compile>
@@ -47,6 +50,9 @@
     <EmbeddedResource Update="Views\ActivityIndicatorViews\ActivityIndicatorXamlPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Views\CareouselViews\CarouselViewMainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\CarouselPageViews\CarouselPageMenu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -60,6 +66,9 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\CheckBoxViews\CheckBoxMainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\CollectionViews\CollectionViewMainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\DatePickerViews\DatePickerMainPage.xaml">
@@ -95,7 +104,16 @@
     <EmbeddedResource Update="Views\GridLayoutPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Views\IndicatorViews\IndicatorViewMainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\LayoutsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ListViews\Basic\BasicList.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ListViews\ContextActions\ContextActionsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\MapViews\MapAppPage.xaml">

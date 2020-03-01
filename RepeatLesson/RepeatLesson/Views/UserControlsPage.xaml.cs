@@ -5,9 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
 using RepeatLesson.Views.ActivityIndicatorViews;
+using RepeatLesson.Views.CareouselViews;
 using RepeatLesson.Views.CheckBoxViews;
+using RepeatLesson.Views.CollectionViews;
 using RepeatLesson.Views.DatePickerViews;
 using RepeatLesson.Views.EntryViews;
+using RepeatLesson.Views.IndicatorViews;
+using RepeatLesson.Views.ListViews.Basic;
+using RepeatLesson.Views.ListViews.ContextActions;
+
 using RepeatLesson.Views.MapViews;
 using RepeatLesson.Views.ProgressBarViews;
 using RepeatLesson.Views.SearchBarViews;
@@ -31,9 +37,14 @@ namespace RepeatLesson.Views
 
         private void ListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            
+            //ListView de seçtiğimiz bir öğeyi tekrar seçebilmemiz için bu kod parçacığını kullanıyoruz.
+            if (e.SelectedItem == null) return;
+
+            if (sender is ListView lv) lv.SelectedItem = null;
+
             switch ((e.SelectedItem as Controls)?.Name)
             {
+                   
                
                 case "Image":
                     Navigation.PushAsync(new ImagePage());
@@ -88,6 +99,18 @@ namespace RepeatLesson.Views
                     break;
                 case "ProgressBar":
                     Navigation.PushAsync(new ProgressBarMainPage());
+                    break;
+                case "CarouselView":
+                    Navigation.PushAsync(new CarouselViewMainPage());
+                    break;
+                case "CollectionView":
+                    Navigation.PushAsync(new CollectionViewMainPage());
+                    break;
+                case "IndicatorView":
+                    Navigation.PushAsync(new IndicatorViewMainPage());
+                    break;
+                case "ListView":
+                    Navigation.PushAsync(new BasicList());
                     break;
             }
 

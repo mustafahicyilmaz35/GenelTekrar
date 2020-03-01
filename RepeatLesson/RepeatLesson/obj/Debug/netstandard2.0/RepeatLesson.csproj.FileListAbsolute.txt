@@ -77,3 +77,8 @@ C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Deb
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\ActivityIndicatorViews\ActivityIndicatorXamlPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\ProgressBarViews\ProgressBarMainPage.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\ProgressBarViews\ProgressBarXamlPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CareouselViews\CarouselViewMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\CollectionViews\CollectionViewMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\IndicatorViews\IndicatorViewMainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\ListViews\Basic\BasicList.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_UI\RepeatLesson\RepeatLesson\RepeatLesson\obj\Debug\netstandard2.0\Views\ListViews\ContextActions\ContextActionsPage.xaml.g.cs
