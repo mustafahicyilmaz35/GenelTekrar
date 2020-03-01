@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RepeatLesson.Models;
+using RepeatLesson.Views.ActivityIndicatorViews;
 using RepeatLesson.Views.CheckBoxViews;
 using RepeatLesson.Views.DatePickerViews;
 using RepeatLesson.Views.EntryViews;
 using RepeatLesson.Views.MapViews;
+using RepeatLesson.Views.ProgressBarViews;
 using RepeatLesson.Views.SearchBarViews;
 using RepeatLesson.Views.SliderViews;
 using RepeatLesson.Views.StepperViews;
@@ -80,6 +82,12 @@ namespace RepeatLesson.Views
                     break;
                 case "Text Demoları":
                     Navigation.PushAsync(new ListPage());
+                    break;
+                case "ActivityIndicator":
+                    Navigation.PushAsync(new ActivityIndicatorMainPage());
+                    break;
+                case "ProgressBar":
+                    Navigation.PushAsync(new ProgressBarMainPage());
                     break;
             }
 
